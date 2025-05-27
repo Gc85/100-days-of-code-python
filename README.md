@@ -36,10 +36,10 @@ My goal is to develop solid Python programming skills and transition into a Pyth
 ## 📁 Folder Structure
 ```
 100-days-of-code-python/
-├── day001/
+├── Day001/
 │   ├── notes.md
 │   └── project.py
-├── day002/
+├── Day002/
 │   ├── notes.md
 │   └── project.py
 ├── ...
